@@ -29,14 +29,17 @@ Ablility to run Python script from command line.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
 Download and save all files to a local directory.
 
-Change $PWD ($PathWorkingDirectory) to that directory. Then run this script, which finds the Zinc GATA4 promoter in the mouse genome fragments.
+On the command line:
+- Check for python -V 2.7
+- Change to local directory containing the downloaded files.
+- Run demo file to find Zinc GATA4 promoter in the mouse genome fragments.
 
 ```
-Give the example
+python -V
+CD /.../.../localDirWith Files
+python DemoGibbsSampler.py
 ```
 
 
@@ -53,7 +56,7 @@ v 0.1
 
 ## Authors
 
-* **Scott Czopek** - *Initial work* - 1/22/17 - [PurpleBooth](https://github.com/PurpleBooth)
+* **Scott Czopek** - *Initial work* - 1/22/17
 
 ## License
 
