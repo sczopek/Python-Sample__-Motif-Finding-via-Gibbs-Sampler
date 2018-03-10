@@ -36,7 +36,8 @@ Download and save all files to a local directory.
 Change $PWD ($PathWorkingDirectory) to that directory. Then run this script, which finds the Zinc GATA4 promoter in the mouse genome fragments.
 
 ```
-Give the example
+python -V
+python DemoGibbsSampler.py
 ```
 
 
