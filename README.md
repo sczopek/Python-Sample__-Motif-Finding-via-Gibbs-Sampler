@@ -53,7 +53,7 @@ v 0.1
 
 ## Authors
 
-* **Scott Czopek** - *Initial work* - 1/22/17 - [PurpleBooth](https://github.com/PurpleBooth)
+* **Scott Czopek** - *Initial work* - 1/22/17 - [GibbsSamplingMotifFinding](https://github.com/sczopek/Motif-Finding-via-Gibbs-Sampler)
 
 ## License
 
